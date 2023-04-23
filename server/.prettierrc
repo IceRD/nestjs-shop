@@ -4,6 +4,7 @@
   "bracketSpacing": true,
   "singleQuote": true,
   "trailingComma": "all",
-  "semi": false,
-  "endOfLine": "auto"
+  "semi": true,
+  "endOfLine": "auto",
+  "printWidth": 100
 }
