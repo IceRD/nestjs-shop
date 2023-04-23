@@ -1,0 +1,9 @@
+{
+  "name": "nest-shop",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "server": "cd server && yarn start",
+    "server:dev": "cd server && yarn start:dev"
+  }
+}
