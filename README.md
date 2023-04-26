@@ -2,4 +2,6 @@
 
 ## SERVER
 
-- NESTJS
+- NestJS
+- PostgreSQL
+- Sequelize
